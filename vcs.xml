@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/Consto/Strategy.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pingpongboss/StandOut.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Moritz\AndroidStudioProjects" />
+    <option name="cloneParentDir" value="C:\Users\Moritz\AndroidStudioProjects\StandOut" />
   </component>
 </application>
