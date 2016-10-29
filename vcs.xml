@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/pingpongboss/StandOut.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mtsahakis/MediaProjectionDemo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Moritz\AndroidStudioProjects\StandOut" />
+    <option name="cloneParentDir" value="C:\Users\Moritz\AndroidStudioProjects\Flip" />
   </component>
 </application>
